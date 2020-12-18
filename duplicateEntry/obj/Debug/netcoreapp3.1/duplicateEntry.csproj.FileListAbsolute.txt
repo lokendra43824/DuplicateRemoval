@@ -1,0 +1,13 @@
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\bin\Debug\netcoreapp3.1\duplicateEntry.exe
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\bin\Debug\netcoreapp3.1\duplicateEntry.deps.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\bin\Debug\netcoreapp3.1\duplicateEntry.runtimeconfig.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\bin\Debug\netcoreapp3.1\duplicateEntry.runtimeconfig.dev.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\bin\Debug\netcoreapp3.1\duplicateEntry.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\bin\Debug\netcoreapp3.1\duplicateEntry.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\obj\Debug\netcoreapp3.1\duplicateEntry.csprojAssemblyReference.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\obj\Debug\netcoreapp3.1\duplicateEntry.AssemblyInfoInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\obj\Debug\netcoreapp3.1\duplicateEntry.AssemblyInfo.cs
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\obj\Debug\netcoreapp3.1\duplicateEntry.csproj.CoreCompileInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\obj\Debug\netcoreapp3.1\duplicateEntry.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\obj\Debug\netcoreapp3.1\duplicateEntry.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\duplicateEntry\duplicateEntry\obj\Debug\netcoreapp3.1\duplicateEntry.genruntimeconfig.cache
